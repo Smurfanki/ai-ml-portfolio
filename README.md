@@ -5,7 +5,7 @@ Portfolio of my Data Science &amp; AI Projects
 > “Physics taught me how to ask the right questions.  
 > Machine Learning is teaching me how to answer them.”  
 
-Hi, I’m [Your Name] 👋 — a Physics graduate on a mission to transform curiosity into impact with **Data Science, AI, and Generative Models**.  
+Hi, I’m Anki Prakash 👋 — a Physics graduate on a mission to transform curiosity into impact with **Data Science, AI, and Generative Models**.  
 This repository is the **map of my journey** — from the very first Python loop to building AI systems that can reason, generate, and scale.  
 
 ---
