@@ -28,7 +28,11 @@ Each project here is a **milestone** I’ve crossed. Together they tell the stor
 - 🚢 **Titanic Survivor Prediction** → [Repo link]  
   *The classic ML benchmark — data cleaning, feature engineering, and classification.*  
 - 🏠 **House Prices Advanced Regression** → [Repo link]  
-  *Applied ML pipeline using LightGBM/XGBoost, with error analysis & model card.*  
+  *Applied ML pipeline using LightGBM/XGBoost, with error analysis & model card.*
+
+- 💳 Fraud Detection & Prediction → [https://github.com/Smurfanki/Fraud_Prediction](https://github.com/Smurfanki/Fraud_Prediction)  
+Detects fraudulent transactions using Logistic Regression, Random Forest, and XGBoost.
+
 
 ---
 
